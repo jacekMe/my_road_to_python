@@ -2,6 +2,8 @@
 
 My solutions to end of chapter challenges in "The Self-Taught Programmer" Cory Althoff.
 
+# Table of contents
+
 1. Chapter 3 - Introduction to Programming
 2. Chapter 4 - Functions
 3. Chapter 5 - Containers
