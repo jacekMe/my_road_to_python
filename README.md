@@ -4,4 +4,4 @@ This is a repository that I have created to track my progress in Python related 
 This repository will feature books or courses related to Python that I am redesigning.
 
 # books
-- The Self-Taught Programmer - cory Althoff
+- The Self-Taught Programmer - Cory Althoff
