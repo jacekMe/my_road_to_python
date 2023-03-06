@@ -1,6 +1,7 @@
 # The Self-Taught Programmer
 
 My solutions to end of chapter challenges in "The Self-Taught Programmer" Cory Althoff.
+All solutions are written in Python.
 
 # Table of contents
 
