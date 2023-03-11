@@ -1,7 +1,8 @@
 # Python. Zadania z programowania. Przykładowe imperatywne rozwiązania
 ### Python. Programming tasks. Example imperative solutions
 
-Orginial title & author: Python. Zadania z programowania. Przykładowe imperatywne rozwiązania - Mirosław J. Kubiak
+Orginial title & author: Python. Zadania z programowania. Przykładowe imperatywne rozwiązania - Mirosław J. Kubiak.
+
 All exercises are from this book. 
 
 # Table of contents
