@@ -5,3 +5,4 @@ This repository will feature books or courses related to Python that I am redesi
 
 # books
 - The Self-Taught Programmer - Cory Althoff
+- Python. Zadania z programowania. Przykładowe imperatywne rozwiązania - Mirosław J. Kubiak
